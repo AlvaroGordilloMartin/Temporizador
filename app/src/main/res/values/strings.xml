@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Temporizador</string>
+    <string name="IniciarTmp">Iniciar temporizador</string>
+</resources>
